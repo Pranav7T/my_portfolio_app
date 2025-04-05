@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website built with React, Tailwind CSS, and Framer Motion.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Portfolio-blue?style=for-the-badge&logo=vercel)](https://my-portfolio-app-kappa-sepia.vercel.app/)
+
 ## Features
 
 - 📱 Fully responsive design for all devices
@@ -64,11 +66,13 @@ A modern, responsive portfolio website built with React, Tailwind CSS, and Frame
 
 ## Deployment
 
-This website can be deployed on:
+This website is deployed on Vercel. You can view the live demo here:
+[https://my-portfolio-app-kappa-sepia.vercel.app/](https://my-portfolio-app-kappa-sepia.vercel.app/)
+
+This website can also be deployed on:
 
 - GitHub Pages
 - Netlify
-- Vercel
 
 ## Customization
 
